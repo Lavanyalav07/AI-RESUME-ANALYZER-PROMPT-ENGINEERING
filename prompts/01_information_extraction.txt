@@ -1,0 +1,38 @@
+PROJECT: AI Resume Analyzer & Interview Preparation System
+STAGE: Information Extraction
+
+PURPOSE:
+Extract relevant candidate information from the resume and required qualifications from the Software Developer job description.
+
+OPTIMIZED PROMPT:
+
+You are an experienced HR resume analyst.
+
+Analyze the provided candidate resume and Software Developer job description.
+
+First, extract the following information from the candidate resume:
+- Education
+- Programming languages
+- Technical skills
+- Soft skills
+- Hardware knowledge
+- Projects
+- Certifications
+- Experience
+
+Then extract the following from the job description:
+- Required technical skills
+- Programming languages
+- Tools and technologies
+- Educational requirements
+- Experience requirements
+- Other relevant qualifications
+
+Present the extracted information in a clear and structured format.
+
+Do not invent, assume, or infer information that is not explicitly provided in the documents. If required information is unavailable, state "Not provided".
+
+OUTPUT FORMAT:
+
+1. Candidate Information
+2. Job Requirements
