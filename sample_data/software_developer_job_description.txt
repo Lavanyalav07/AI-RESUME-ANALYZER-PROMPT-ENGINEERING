@@ -1,0 +1,23 @@
+SOFTWARE DEVELOPER — SAMPLE JOB DESCRIPTION
+
+Education:
+B.Tech/B.E. in Computer Science, Information Technology,
+or a related field.
+
+Required Skills:
+- Python
+- SQL
+- React.js
+- REST APIs
+- Git/GitHub
+
+Additional Requirements:
+- Good communication skills
+- Problem-solving ability
+- Ability to work in a team
+
+Experience:
+Freshers are eligible.
+
+Note:
+This is fictional sample data created only for project demonstration.
