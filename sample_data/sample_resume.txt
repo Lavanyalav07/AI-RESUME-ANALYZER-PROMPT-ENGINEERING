@@ -1,0 +1,32 @@
+SAMPLE CANDIDATE RESUME
+
+Name: Rahul Kumar
+
+Career Level: Fresher
+
+Education:
+B.Tech in Computer Science and Engineering
+
+Programming Languages:
+Python
+
+Technical Skills:
+Python, SQL, Excel
+
+Soft Skills:
+Not provided
+
+Hardware Knowledge:
+Not provided
+
+Projects:
+Chat Application
+
+Certifications:
+Python Programming
+
+Experience:
+Fresher
+
+Note:
+This is fictional sample data created only for project demonstration.
